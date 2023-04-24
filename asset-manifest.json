@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobilics_frontend/static/css/main.db70d096.css",
+    "main.js": "/mobilics_frontend/static/js/main.7661edd5.js",
+    "static/js/787.cda612ba.chunk.js": "/mobilics_frontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "/mobilics_frontend/index.html",
+    "main.db70d096.css.map": "/mobilics_frontend/static/css/main.db70d096.css.map",
+    "main.7661edd5.js.map": "/mobilics_frontend/static/js/main.7661edd5.js.map",
+    "787.cda612ba.chunk.js.map": "/mobilics_frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db70d096.css",
+    "static/js/main.7661edd5.js"
+  ]
+}
